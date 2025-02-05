@@ -47,7 +47,7 @@ Before running the tests, ensure you have the following is installed (Windows):
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/your-username playwright-test-suite.git
+git clone https://github.com/radhika1154/Playwright-Web-API-Testing-Suite
 cd playwright-test-suite
   
 2. Command For Installing Playwright (TypeScript)
