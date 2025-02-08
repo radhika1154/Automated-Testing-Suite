@@ -1,8 +1,8 @@
 import { test, expect } from '@playwright/test';
 import dotenv from 'dotenv';
-import { LoginPage } from '/playwright-test-suite/pageObjects/loginPage';
-import { DynamicLoadingPage } from '/playwright-test-suite/pageObjects/dynamicLoadingPage';
-import { FileUploadPage } from '/playwright-test-suite/pageObjects/fileUploadPage';
+import { LoginPage } from '../pageObjects/loginPage';
+import { DynamicLoadingPage } from '../pageObjects/dynamicLoadingPage';
+import { FileUploadPage } from '../pageObjects/fileUploadPage';
 
 // Load environment variables
 dotenv.config();
